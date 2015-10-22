@@ -5,3 +5,5 @@ This site is buit to learn and get experience on Ruby.
 The more you practice the more you learn and get ready
 
 Avni Alp Mumcu [a.alp.mumcu@gmail.com]
+
+Date 10/21/2015

@@ -1,5 +1,11 @@
 ROR2::Application.routes.draw do
   root :to => 'pages#home'
+  
+  get "projects" => "pages#projects"
+  get "movies" => "pages#movies"
+  get "future" => "pages#future"
+  get "about" => "pages#about"
+
 
   # The priority is based upon order of creation:
   # first created -> highest priority.
